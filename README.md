@@ -17,6 +17,6 @@ Click the button: Press the button to hear the text spoken aloud.
 
 Project Files
 
-index.html: The HTML file containing the structure of the web application.
+index.html: The HTML file contains the structure of the web application.
 styles.css: The CSS file for styling the web application.
 script.js: The JavaScript file that contains the logic for text to speech conversion and voice selection.
